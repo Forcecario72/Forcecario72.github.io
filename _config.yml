@@ -5,4 +5,6 @@ plugins:
 title: Michael Oelschlager's CS-499 Demo ePortfolio
 description: This site is meant to showcase the ePortfolio developed for CS-499 (Computer Science Capstone)
 
-
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
