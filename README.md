@@ -6,7 +6,7 @@ During the course of CS-499, my 2025 Computer Science Capstone class, I have com
 
 I have decent skills in the computer science categories that the project milestones focused on, especially in the software design and engineering category. However, communication and collaboration are unfortunately not my area of expertise. Collaborating with other software developers is something I have had very little experience with, and receiving feedback on my work from teachers and instructors is the closest experience I have had to communicating with stakeholders. Most of my computer science education has focused on programming skills and general computer science knowledge rather than on working with other people, which means I have gained a solid grounding in software design, software engineering, programming, algorithms and data structures, databases, and security. As a student yet to enter the workforce, I have more theoretical knowledge than practical experience in the latter three categories, but I am able to use them to accomplish computer science related objectives without too much trouble.
 
-You can see my full Professional Self-Assessment document which includes a summary of my work on the CS-499 project enhancements [here](Documents/CS-499%20Professional%20Self-Assessment.docx).
+You can see my full Professional Self-Assessment document which includes a summary of my work on the CS-499 project enhancements [here](Documents/CS-499%20Professional%20Self-Assessment.docx), or view the pdf version [here](Documents/CS-499%20Professional%20Self-Assessment.pdf).
 
 ## Code Review
 
@@ -27,8 +27,21 @@ For the Algorithms and Data Structures enhancement, I selected the [Thermostat.p
 And for the Databases enhancement, I selected the [AnimalShelterCRUD.py](CS-340-Client-Server-Development-Artifact/AnimalShelterCRUD_original.py) file from CS-340. This is a supporting file for the Project Two Dashboard, so the narratives for the first and third enhancements have been linked.
 
 ## Enhamcements
-### Thermostat.py
 ### ProjectTwoDashboard.ipynb
+Enhancement summary
+
+The enhanced ProjectTwoDashboard.ipynb artifact can be found [here](CS-340-Client-Server-Development-Artifact/ProjectTwoDashboard_enhancement1.ipynb).
+
+### Thermostat.py
+Enhancement summary
+
+The enhanced Thermostat.py artifact can be found [here](CS-350-Emerging-Sys-Arch-and-Tech-Artifact/Thermostat_enhancement2.py).
+
 ### AnimalShelterCRUD.py
+Enhancement summary
+
+The enhanced ProjectTwoDashboard.ipynb artifact can be found [here](CS-340-Client-Server-Development-Artifact/ProjectTwoDashboard_enhancement1.ipynb).
 
 ## Narratives
+-[Narrative](Documents/CS-499%20Enhancements%20One%20and%20Three%20Narrative.pdf) on the first and third enhancements (Software Design and Engineering, and Databases)
+-[Narrative](Documents/CS-499%20Enhancement%20Two%20Narrative.pdf) on the second enhancement (Algorithms and Data Structures)
