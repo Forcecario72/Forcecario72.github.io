@@ -6,7 +6,7 @@ During the course of CS-499, my 2025 Computer Science Capstone class, I have com
 
 I have decent skills in the computer science categories that the project milestones focused on, especially in the software design and engineering category. However, communication and collaboration are unfortunately not my area of expertise. Collaborating with other software developers is something I have had very little experience with, and receiving feedback on my work from teachers and instructors is the closest experience I have had to communicating with stakeholders. Most of my computer science education has focused on programming skills and general computer science knowledge rather than on working with other people, which means I have gained a solid grounding in software design, software engineering, programming, algorithms and data structures, databases, and security. As a student yet to enter the workforce, I have more theoretical knowledge than practical experience in the latter three categories, but I am able to use them to accomplish computer science related objectives without too much trouble.
 
-You can see my full Professional Self-Assessment document [here](../Documents/CS-499%20Professional%20Self-Assessment.docx).
+You can see my full Professional Self-Assessment document [here](Documents/CS-499%20Professional%20Self-Assessment.docx).
 https://github.com/Forcecario72/Forcecario72.github.io/blob/main/CS-499%20Professional%20Self-Assessment.docx
 
 ## Code Review
