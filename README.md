@@ -26,7 +26,7 @@ For the Algorithms and Data Structures enhancement, I selected the [Thermostat.p
 
 And for the Databases enhancement, I selected the [AnimalShelterCRUD.py](CS-340-Client-Server-Development-Artifact/AnimalShelterCRUD_original.py) file from CS-340. This is a supporting file for the Project Two Dashboard, so the narratives for the first and third enhancements have been linked.
 
-## Enhamcements
+## Enhancements
 ### ProjectTwoDashboard.ipynb
 Enhancement summary
 
