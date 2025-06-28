@@ -43,5 +43,5 @@ Enhancement summary
 The enhanced ProjectTwoDashboard.ipynb artifact can be found [here](CS-340-Client-Server-Development-Artifact/ProjectTwoDashboard_enhancement1.ipynb).
 
 ## Narratives
--[Narrative](Documents/CS-499%20Enhancements%20One%20and%20Three%20Narrative.pdf) on the first and third enhancements (Software Design and Engineering, and Databases)
--[Narrative](Documents/CS-499%20Enhancement%20Two%20Narrative.pdf) on the second enhancement (Algorithms and Data Structures)
+- [Narrative](Documents/CS-499%20Enhancements%20One%20and%20Three%20Narrative.pdf) on the first and third enhancements (Software Design and Engineering, and Databases)
+- [Narrative](Documents/CS-499%20Enhancement%20Two%20Narrative.pdf) on the second enhancement (Algorithms and Data Structures)
