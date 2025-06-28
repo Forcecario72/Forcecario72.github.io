@@ -11,7 +11,6 @@ You can see my full Professional Self-Assessment document which includes a summa
 ## Code Review
 
 The Code Review video I made for CS-499 can be found [here](https://1drv.ms/v/c/8fda3c33647c1117/EQ-QBa3egH1DsNfgvCLnPTcBwNV5Zl9kgHETzbyxR6S3Dw?e=aObBsD).
-<video src="[Code Review](https://1drv.ms/v/c/8fda3c33647c1117/EQ-QBa3egH1DsNfgvCLnPTcBwNV5Zl9kgHETzbyxR6S3Dw?e=aObBsD)" width="500px" controls></video>
 
 ## Original Artifacts
 For the CS-499 Capstone project, I had to select one to three artifacts representing the following categories.
