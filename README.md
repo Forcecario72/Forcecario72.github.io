@@ -24,11 +24,17 @@ https://github.com/Forcecario72/Forcecario72.github.io/blob/main/Thermostat%20En
 https://github.com/Forcecario72/Forcecario72.github.io/blob/main/CS-499%20Enhancement%20Two%20Narrative.docx
 
 ## Original Artifacts
-### Thermostat.py
-For the first 
+For the CS-499 Capstone project, I had to select one to three artifacts representing the following categories.
+- Software Design and engineering
+- Algorithms and Data Structures
+- Databases
+To represent these three categories of Computer Science, I selected three artifacts from the CS-340 and CS-350 final projects.
 
-### ProjectTwoDashboard.ipynb
-### AnimalShelterCRUD.py
+For the Software Design and Engineering enhancement, I selected the [ProjectTwoDashboard.ipynb](CS-340-Client-Server-Development-Artifact/ProjectTwoDashboard_original.ipynb) file from CS-340.
+
+For the Algorithms and Data Structures enhancement, I selected the [Thermostat.py](CS-350-Emerging-Sys-Arch-and-Tech-Artifact/Thermostat_original.py) file from CS-350.
+
+And for the Databases enhancement, I selected the [AnimalShelterCRUD.py](CS-340-Client-Server-Development-Artifact/AnimalShelterCRUD_original.py) file from CS-340.
 
 ## Enhamcements
 ### Thermostat.py
