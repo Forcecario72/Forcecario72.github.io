@@ -28,17 +28,17 @@ And for the Databases enhancement, I selected the [AnimalShelterCRUD.py](CS-340-
 
 ## Enhancements
 ### ProjectTwoDashboard.ipynb
-Enhancement summary
+For this enhancement, I have changed the layout of the dashboard's user interface to more closely align with UI/UX principles, including simplifying the dashboard view and organizing the information flow to make sure important data is presented to the user before other information.
 
 The enhanced ProjectTwoDashboard.ipynb artifact can be found [here](CS-340-Client-Server-Development-Artifact/ProjectTwoDashboard_enhancement1.ipynb).
 
 ### Thermostat.py
-Enhancement summary
+For this enhancement, I have implemented code for a machine learning algorithm so that the thermostat controller can use data it has recorded in the past to predict the temperature at some point in the future, or the optimal set point temperature for a particular temperature at the current time.
 
 The enhanced Thermostat.py artifact can be found [here](CS-350-Emerging-Sys-Arch-and-Tech-Artifact/Thermostat_enhancement2.py).
 
 ### AnimalShelterCRUD.py
-Enhancement summary
+For this enhancement, I have updated the CRUD functionality of this file to allow the program to handle more advanced database operations, such as including multiple data entries at a time during normal CRUD operations, or counting the number of entries in a subset of the database.
 
 The enhanced ProjectTwoDashboard.ipynb artifact can be found [here](CS-340-Client-Server-Development-Artifact/ProjectTwoDashboard_enhancement1.ipynb).
 
