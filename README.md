@@ -13,16 +13,6 @@ You can see my full Professional Self-Assessment document which includes a summa
 The Code Review video I made for CS-499 can be found [here](https://1drv.ms/v/c/8fda3c33647c1117/EQ-QBa3egH1DsNfgvCLnPTcBwNV5Zl9kgHETzbyxR6S3Dw?e=aObBsD).
 <video src="[Code Review](https://1drv.ms/v/c/8fda3c33647c1117/EQ-QBa3egH1DsNfgvCLnPTcBwNV5Zl9kgHETzbyxR6S3Dw?e=aObBsD)" width="500px" controls></video>
 
-## Enhancements One and Three: Artifacts and Narrative
-
-https://github.com/Forcecario72/Forcecario72.github.io/blob/main/CS-340-Client-Server-Development-main-final.zip
-https://github.com/Forcecario72/Forcecario72.github.io/blob/main/CS-499%20Enhancements%20One%20and%20Three%20Narrative.docx
-
-## Enhancement Two: Artifacts and Narrative
-
-https://github.com/Forcecario72/Forcecario72.github.io/blob/main/Thermostat%20Enhancement%20Milestone%20final.zip
-https://github.com/Forcecario72/Forcecario72.github.io/blob/main/CS-499%20Enhancement%20Two%20Narrative.docx
-
 ## Original Artifacts
 For the CS-499 Capstone project, I had to select one to three artifacts representing the following categories.
 - Software Design and engineering
@@ -34,7 +24,7 @@ For the Software Design and Engineering enhancement, I selected the [ProjectTwoD
 
 For the Algorithms and Data Structures enhancement, I selected the [Thermostat.py](CS-350-Emerging-Sys-Arch-and-Tech-Artifact/Thermostat_original.py) file from CS-350.
 
-And for the Databases enhancement, I selected the [AnimalShelterCRUD.py](CS-340-Client-Server-Development-Artifact/AnimalShelterCRUD_original.py) file from CS-340.
+And for the Databases enhancement, I selected the [AnimalShelterCRUD.py](CS-340-Client-Server-Development-Artifact/AnimalShelterCRUD_original.py) file from CS-340. This is a supporting file for the Project Two Dashboard, so the narratives for the first and third enhancements have been linked.
 
 ## Enhamcements
 ### Thermostat.py
