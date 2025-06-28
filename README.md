@@ -25,6 +25,8 @@ https://github.com/Forcecario72/Forcecario72.github.io/blob/main/CS-499%20Enhanc
 
 ## Original Artifacts
 ### Thermostat.py
+For the first 
+
 ### ProjectTwoDashboard.ipynb
 ### AnimalShelterCRUD.py
 
