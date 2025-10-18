@@ -10,7 +10,7 @@ You can see my full Professional Self-Assessment document which includes a summa
 
 ## Code Review
 
-The Code Review video I made for CS-499 can be found [here](https://1drv.ms/v/c/8fda3c33647c1117/EQ-QBa3egH1DsNfgvCLnPTcBwNV5Zl9kgHETzbyxR6S3Dw?e=aObBsD).
+The Code Review video I made for CS-499 can be found [here](https://1drv.ms/v/c/8fda3c33647c1117/EYTDJIOwTyxPgKZaJpDjEx4BAbYFAbU8wnaoC2uix0U92w?e=LkrVWf).
 
 ## Original Artifacts
 For the CS-499 Capstone project, I had to select one to three artifacts representing the following categories.
@@ -39,8 +39,9 @@ The enhanced Thermostat.py artifact can be found [here](CS-350-Emerging-Sys-Arch
 ### AnimalShelterCRUD.py
 For this enhancement, I have updated the CRUD functionality of this file to allow the program to handle more advanced database operations, such as including multiple data entries at a time during normal CRUD operations, or counting the number of entries in a subset of the database.
 
-The enhanced ProjectTwoDashboard.ipynb artifact can be found [here](CS-340-Client-Server-Development-Artifact/ProjectTwoDashboard_enhancement1.ipynb).
+The enhanced AnimalShelterCRUD.py artifact can be found [here](CS-340-Client-Server-Development-Artifact/AnimalShelterCRUD_enhancement3.py).
 
 ## Narratives
-- [Narrative](Documents/CS-499%20Enhancements%20One%20and%20Three%20Narrative.pdf) on the first and third enhancements (Software Design and Engineering, and Databases)
+- [Narrative](Documents/CS-499%20Enhancement%20One%20Narrative.pdf) on the first enhancement (Software Design and Engineering)
 - [Narrative](Documents/CS-499%20Enhancement%20Two%20Narrative.pdf) on the second enhancement (Algorithms and Data Structures)
+- [Narrative](Documents/CS-499%20Enhancement%20Three%20Narrative.pdf) on the third enhancement (Databases)
