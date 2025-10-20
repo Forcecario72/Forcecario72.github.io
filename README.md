@@ -14,9 +14,10 @@ The Code Review video I made for CS-499 can be found [here](https://1drv.ms/v/c/
 
 ## Original Artifacts
 For the CS-499 Capstone project, I had to select one to three artifacts representing the following categories.
-- Software Design and engineering
+- Software Design and Engineering
 - Algorithms and Data Structures
 - Databases
+
 To represent these three categories of Computer Science, I selected three artifacts from the CS-340 and CS-350 final projects.
 
 For the Software Design and Engineering enhancement, I selected the [ProjectTwoDashboard.ipynb](CS-340-Client-Server-Development-Artifact/ProjectTwoDashboard_original.ipynb) file from CS-340.
